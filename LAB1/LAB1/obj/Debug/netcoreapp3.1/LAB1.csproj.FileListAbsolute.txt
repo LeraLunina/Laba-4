@@ -1,0 +1,13 @@
+C:\Users\Lera\source\repos\LAB1\LAB1\bin\Debug\netcoreapp3.1\LAB1.exe
+C:\Users\Lera\source\repos\LAB1\LAB1\bin\Debug\netcoreapp3.1\LAB1.deps.json
+C:\Users\Lera\source\repos\LAB1\LAB1\bin\Debug\netcoreapp3.1\LAB1.runtimeconfig.json
+C:\Users\Lera\source\repos\LAB1\LAB1\bin\Debug\netcoreapp3.1\LAB1.runtimeconfig.dev.json
+C:\Users\Lera\source\repos\LAB1\LAB1\bin\Debug\netcoreapp3.1\LAB1.dll
+C:\Users\Lera\source\repos\LAB1\LAB1\bin\Debug\netcoreapp3.1\LAB1.pdb
+C:\Users\Lera\source\repos\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.csprojAssemblyReference.cache
+C:\Users\Lera\source\repos\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.AssemblyInfoInputs.cache
+C:\Users\Lera\source\repos\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.AssemblyInfo.cs
+C:\Users\Lera\source\repos\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.csproj.CoreCompileInputs.cache
+C:\Users\Lera\source\repos\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.dll
+C:\Users\Lera\source\repos\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.pdb
+C:\Users\Lera\source\repos\LAB1\LAB1\obj\Debug\netcoreapp3.1\LAB1.genruntimeconfig.cache
